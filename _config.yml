@@ -1,5 +1,6 @@
-remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: mmistakes/minimal-mistakes@v4.27.0
 plugins:
 - jekyll-remote-theme 
+- jekyll-include-cache
 title: "Addison Girolami Miller"
 description: "Addison Miller's Personal Website"
