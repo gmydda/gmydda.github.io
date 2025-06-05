@@ -22,7 +22,7 @@ url                      : "https://gmydda.github.io"
 #baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gmydda/gmydda.github.io"
 #teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/glitchedme.jpg"
+logo                     : "/assets/images/glitchedme.jpg"
 #masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 #breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -110,7 +110,7 @@ analytics:
 # Site Author
 author:
   name             : "Addison Miller"
-  avatar           : "assets/me.jpg"
+  avatar           : "assets/images/me.jpg"
   bio              : "Site owner and dilettante"
   location         : "Cleveland, OH"
   email            : "g.miller.addison@gmail.com"
