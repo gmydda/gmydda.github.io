@@ -9,7 +9,6 @@ plugins:
 - jekyll-remote-theme 
 - jekyll-include-cache
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-include: ["_pages"]
 # Site Settings
 locale                   : "en-US"
 title: "Addison Girolami Miller"
@@ -290,3 +289,9 @@ defaults:
       comments: false
       share: true
       related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
