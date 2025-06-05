@@ -6,4 +6,4 @@ I'm a musician, coder, and aspiring civic technologist. In May 2025, I graduated
 
 You can find my resume below.
 
-<object data="Addison Miller Resume 5_22.docx (2).pdf" width="1000" height="1000" type='application/pdf'>
+<object data="assets/files/Addison Miller Resume 5_22.docx (2).pdf" width="1000" height="1000" type='application/pdf'>
