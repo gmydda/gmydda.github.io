@@ -1,5 +1,5 @@
 ---
-title: Contact me
+title: "Contact me"
 permalink: /contact
 ---
 ✉ g.miller.addison@gmail.com
