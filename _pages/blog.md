@@ -2,11 +2,8 @@
 title: Blog
 permalink: /blog
 ---
-### Posts (most to least recent):
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+### Posts:
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html entries=site.posts type=entries_layout %}
+</div>
