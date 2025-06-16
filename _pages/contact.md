@@ -4,7 +4,7 @@ permalink: /contact
 ---
 ✉ g.miller.addison@gmail.com
 
-☎ (914) 574-1064
+☎ inquire by email
 
 I can also be found on:
 
