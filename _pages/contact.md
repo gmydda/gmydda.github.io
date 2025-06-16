@@ -8,8 +8,8 @@ permalink: /contact
 
 I can also be found on:
 
-instagram: https://instagram.com/girolamisalami
+instagram: [https://instagram.com/girolamisalami](https://instagram.com/girolamisalami)
 
-linkedin: https://www.linkedin.com/in/addygm/ 
+linkedin: [https://www.linkedin.com/in/addygm/ ](https://www.linkedin.com/in/addygm/)
 
-youtube: https://www.youtube.com/@gmydda
+youtube: [https://www.youtube.com/@gmydda](https://www.youtube.com/@gmydda)
