@@ -1,7 +1,5 @@
 ---
 title: On Gentrification in Cleveland
-head_scripts:
- - https://js.arcgis.com/embeddable-components/4.32/arcgis-embeddable-components.esm.js
 ---
 #### THIS IS A DRAFT!
 #### I: Forethought 
