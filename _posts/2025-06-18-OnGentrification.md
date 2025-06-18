@@ -1,0 +1,20 @@
+---
+title: On Gentrification in Cleveland
+head_scripts:
+ - https://js.arcgis.com/embeddable-components/4.32/arcgis-embeddable-components.esm.js
+---
+#### THIS IS A DRAFT!
+#### I: Forethought 
+What is the purpose of the city? We can think of some things it ought to do: house people, host their places of work, play, and leisure, and facilitate transportation to and from these various places, etc. Making and implementing polices that shape those features are the traditional tasks of planning agencies, transit authorities and coordinating agencies (for instance, NOACA). But land use, zoning, and transit planning are not *ends* in themselves, instead, they are means. Answers to policy questions that shape the built environment arise only after we have thought about what our cities are *for.* And that makes their answers political and ideological. The answers, then, to questions like, "Where should we build housing, and what type should we build?" (if, indeed, we ought to build housing at all), "How should people get around?," etc. are predicated on thornier questions, like "Who belongs?", "What, if anything, is our responsibility to one another?", and "What is the proper relationship between government and the market?" The centrality of these questions can sometimes get obscured in discussions about urban policy that often center on specific policy debates before thinking about the goals of such policies.  I am guided in this line of thinking by the 1979 *Policy Planning Report* of Cleveland, Ohio, led by Norman Krumholz. That document articulates a new goal for planning: 
+>Equity requires that locally-responsible government institutions give priority attention to the goal of promoting a wider range of choices for those Cleveland residents who have few, if any, choices. [^1]
+
+The report provides an extensive justification for itself, including references to Plato, Thomas Jefferson, James Madison, John Rawls, and the Bible. In doing so, it departs significantly from any official planning document previously produced. But its clearly ideological bent is its strength. Its goal is not to be a map of different colored spots of land indicating what might be built where; Instead, it answers the deeper questions of *what planning is for.* Norman Krumholz was guided by the recognition that Cleveland's metropolitan area was among the most segregated and unequal in the nation.[^2] The exodus of wealth from the urban to sub- and exurban areas of greater Cleveland continues to present the greatest challenge to addressing the problems of substandard housing, poor health outcomes, crime, poverty, etc. But Krumholz envisioned a role for planning to strike out on a quest to build a more equitable society, even if it didn't have other institutional backers for such an effort. Its instruments were influence in the particular areas of policy it had credibility:  housing, zoning, transportation, etc. 
+
+<arcgis-embedded-map style="height:600px;width:700px;" item-id="d048e049782440b7995cb938d798dbae" theme="light" heading-enabled share-enabled portal-url="https://cwru.maps.arcgis.com" ></arcgis-embedded-map>
+
+#### II. What do you mean, "gentrification?"
+
+#### III. 
+
+[^1]:  Cleveland City Planning Commission, *The Cleveland Policy Planning Report*, 1973, https://ecommons.cornell.edu/items/ca49d22c-76b7-4462-ab72-9faaf15d2815, 9. 
+[^2]: Cleveland City Planning Commission, *Policy Planning Report,* 12-13. 
