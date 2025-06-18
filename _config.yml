@@ -83,7 +83,8 @@ bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
-
+head_scripts:
+ - https://js.arcgis.com/embeddable-components/4.32/arcgis-embeddable-components.esm.js
 # Social Sharing
 twitter:
   username               :
