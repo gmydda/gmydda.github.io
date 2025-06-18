@@ -290,6 +290,8 @@ defaults:
       share: true
       permalink: "/blog/:title"
       related: true
+      classes: wide
+      toc: true
   - scope:
       path: "_pages"
       type: pages
